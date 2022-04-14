@@ -1,0 +1,2 @@
+# Dissertation_MB_NUIG
+For my undergraduate dissertation I completed a Spatial interpolation of COVID-19 cases and COVID-19 unemployment, while examining policy and assessing graduates' perspective of the current labor market. The results indicated that in 2020 the counties along the Northern Ireland border suffered the most in terms of unemployment and that young graduates chose to pursue further education as they had little confidence in the current market. I received a 1.1 for this work. 
